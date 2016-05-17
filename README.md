@@ -1,2 +1,1 @@
-# memehub
-All GIF'd up. PR's welcome!
+![Haters Gonna Hate](https://raw.githubusercontent.com/girldevelopitcincinnati/memehub/master/hatersgonnahate.gif)
